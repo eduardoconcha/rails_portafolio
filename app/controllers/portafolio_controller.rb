@@ -7,4 +7,7 @@ class PortafolioController < ApplicationController
 
     def contact
     end
+
+    def gracias
+    end
 end

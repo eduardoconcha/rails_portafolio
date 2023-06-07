@@ -7,4 +7,5 @@ Rails.application.routes.draw do
   get "/", to: "portafolio#home"
   get "/projects", to: "portafolio#projects"
   get "/contact", to: "portafolio#contact"
+  get "/gracias", to: "portafolio#gracias"
 end
